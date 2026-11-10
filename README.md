@@ -138,19 +138,19 @@ The Power BI report contains four pages:
 
 ### Dashboard screenshots
 
-Add the four dashboard images to the `screenshots/` folder using these exact filenames. The Markdown below will then render them on GitHub.
+The four Power BI report pages are shown below. Image links use the original screenshot filenames stored in the `screenshots/` folder.
 
 #### Global Economic Overview
-![Global Economic Overview](screenshots/global_economic_overview.png)
+![Global Economic Overview](screenshots/Screenshot%202026-11-10%20134812.png)
 
 #### Population & Agriculture
-![Population & Agriculture](screenshots/population_agriculture.png)
+![Population & Agriculture](screenshots/Screenshot%202026-11-10%20134846.png)
 
 #### Healthcare & Life Expectancy
-![Healthcare & Life Expectancy](screenshots/healthcare_life_expectancy.png)
+![Healthcare & Life Expectancy](screenshots/Screenshot%202026-11-10%20134923.png)
 
 #### Agricultural Performance
-![Agricultural Performance](screenshots/agricultural_performance.png)
+![Agricultural Performance](screenshots/Screenshot%202026-11-10%20134954.png)
 
 ### Power BI report file
 

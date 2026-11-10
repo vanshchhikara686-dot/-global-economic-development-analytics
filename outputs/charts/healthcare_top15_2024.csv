@@ -1,0 +1,16 @@
+Country_Code,Country_Name,Year,Indicator_Code,Indicator_Name,Indicator_Category,Value,Data_Availability
+DEU,Germany,2024,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),Health_Expenditure,12.26655293,Available
+AUT,Austria,2024,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),Health_Expenditure,11.8325634,Available
+FRA,France,2024,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),Health_Expenditure,11.53530598,Available
+CAN,Canada,2024,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),Health_Expenditure,11.3095665,Available
+SWE,Sweden,2024,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),Health_Expenditure,11.21510124,Available
+GBR,United Kingdom,2024,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),Health_Expenditure,11.133358,Available
+CHL,Chile,2024,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),Health_Expenditure,10.53092575,Available
+PRT,Portugal,2024,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),Health_Expenditure,10.24061108,Available
+NZL,New Zealand,2024,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),Health_Expenditure,10.06186676,Available
+NLD,Netherlands,2024,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),Health_Expenditure,10.00551128,Available
+SVN,Slovenia,2024,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),Health_Expenditure,9.87630939,Available
+DNK,Denmark,2024,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),Health_Expenditure,9.38812923,Available
+ISL,Iceland,2024,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),Health_Expenditure,8.98358727,Available
+KOR,"Korea, Rep.",2024,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),Health_Expenditure,8.67656994,Available
+CZE,Czechia,2024,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),Health_Expenditure,8.50710297,Available

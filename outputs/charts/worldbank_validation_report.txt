@@ -1,0 +1,24 @@
+WORLD BANK DATA VALIDATION REPORT
+==================================================
+
+Total records: 54,250
+Unique countries: 217
+Unique indicators: 10
+Year range: 2000-2024
+Duplicate records: 0
+Unexpected year records: 0
+Negative values outside GDP growth: 0
+
+INDICATOR SUMMARY
+                        count          min           max          mean
+Indicator_Category                                                    
+Agriculture_Employment   4666         0.08  9.194000e+01  2.581000e+01
+Agriculture_GDP          4865         0.00  7.904000e+01  1.087000e+01
+Cereal_Yield             4450         0.10  3.676190e+04  3.333780e+03
+GDP_Current_USD          5242  14139705.25  2.929801e+13  3.338576e+11
+GDP_Growth               5168       -54.40  8.683000e+01  3.330000e+00
+GDP_Per_Capita           5242       109.59  2.880016e+05  1.631453e+04
+Health_Expenditure       4562         1.22  2.709000e+01  6.250000e+00
+Life_Expectancy          5425        14.66  8.650000e+01  7.102000e+01
+Population               5425      9544.00  1.450936e+09  3.293786e+07
+Poverty_Rate             1104         0.00  8.230000e+01  2.306000e+01

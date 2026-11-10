@@ -1,0 +1,11 @@
+﻿Indicator_Category,Total_Records,Available_Values,Missing_Values,Unique_Countries,First_Year,Last_Year,Available_Percentage,Missing_Percentage
+Agriculture_Employment,5425,4666,759,217,2000,2024,86.01,13.99
+Agriculture_GDP,5425,4865,560,217,2000,2024,89.68,10.32
+Cereal_Yield,5425,4450,975,217,2000,2024,82.03,17.97
+GDP_Current_USD,5425,5242,183,217,2000,2024,96.63,3.37
+GDP_Growth,5425,5168,257,217,2000,2024,95.26,4.74
+GDP_Per_Capita,5425,5242,183,217,2000,2024,96.63,3.37
+Health_Expenditure,5425,4562,863,217,2000,2024,84.09,15.91
+Life_Expectancy,5425,5425,0,217,2000,2024,100.0,0.0
+Population,5425,5425,0,217,2000,2024,100.0,0.0
+Poverty_Rate,5425,1104,4321,217,2000,2024,20.35,79.65
